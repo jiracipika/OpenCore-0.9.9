@@ -1,5 +1,5 @@
 # OpenCore-0.9.9
-OpenCore with MacOS 13.6.6 (+Dualboot Windows 10)
+OpenCore with MacOS Ventura 13.6.6 (+Dualboot Windows 10)
 
 Specs
 
