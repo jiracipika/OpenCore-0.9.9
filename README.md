@@ -20,5 +20,20 @@ Input Devices:
 Display (via Displayport on RX 5600xt)
 -Dell 27inch 1080p@280hz
 
-Note: Find and replace these values:
+What's working:
+-Everything! will upload GeekBench+Metal soon
+-Wifi (worked OOB with WIFI BT card)
+-Ethernet
+-Bluetooth (worked OOB with WIFI BT card)
+-All USB ports mapped with USBTOOLBOX (literally amazing)
+(Note: all USB ports were functional at USB 2.0, only 4/5 USB 3.0 were functional prior to mapping) 
+
+What's not working:
+-Surprisingly nothing
+
+My use case:
+Primarily using VS Code, Logic Pro X (for those hard renders)
+Windows for gaming, M1 MBA for on-the-go
+
+Note: Find and replace these values in config.plist:
 REPLACE_ME_PLEASE
