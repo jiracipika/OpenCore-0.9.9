@@ -1,8 +1,10 @@
-# OpenCore-0.9.9
+# OpenCore-1.0.0
 OpenCore with MacOS Ventura 13.6.6 (+Dualboot Windows 10)
+Followed these guides: 
+https://dortania.github.io/getting-started/
+https://github.com/USBToolBox/tool
 
-Specs
-
+Specs:
 CPU: Intel i9 9900k (Overclocked to 4.7GHZ)
 Motherboard: MSI Z 370 A-PRO
 Memory: Adata XPG Z1 DDR4 2666mhz 8gbx2 (Overclocked to 3200MHZ)
@@ -37,3 +39,14 @@ Windows for gaming, M1 MBA for on-the-go
 
 Note: Find and replace these values in config.plist:
 REPLACE_ME_PLEASE
+
+Thank you to:
+
+@dortania for Opencore
+https://github.com/dortania
+
+@corpnewt for ProperTree, GenSMBIOS
+https://github.com/corpnewt/
+
+@dhinakg for USBToolBox
+https://github.com/dhinakg
