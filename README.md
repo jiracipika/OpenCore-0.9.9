@@ -31,8 +31,13 @@ What's working:
 (Note: all USB ports were functional at USB 2.0, only 4/5 USB 3.0 were functional prior to mapping) 
 
 What's not working:
-Hardware acceleration
-
+FIXED: Hardware acceleration
+MSI Z370 Motherboard settings under "Settings\Advanced\Integrated Graphics Configuration"
+\\
+Initiate Graphics Adapter [PEG]
+Integrated Graphics Share Memory [64M]
+IGD Multi-Monitor [Enabled]
+\\
 My use case:
 Primarily using VS Code, Logic Pro X (for those hard renders)
 Windows for gaming, M1 MBA for on-the-go
