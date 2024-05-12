@@ -31,7 +31,7 @@ What's working:
 (Note: all USB ports were functional at USB 2.0, only 4/5 USB 3.0 were functional prior to mapping) 
 
 What's not working:
--Surprisingly nothing
+Hardware acceleration
 
 My use case:
 Primarily using VS Code, Logic Pro X (for those hard renders)
