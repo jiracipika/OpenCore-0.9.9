@@ -4,7 +4,8 @@ Followed these guides:
 https://dortania.github.io/getting-started/
 https://github.com/USBToolBox/tool
 
-![Screenshot 2024-05-12 at 11 12 41 PM](https://github.com/jiracipika/OpenCore-1.0.0/assets/74633726/77e47911-4526-46be-b7e6-1fc1c504ce20)
+![Screenshot 2024-05-12 at 11 12 41 PM](https://github.com/jiracipika/OpenCore-1.0.0/assets/74633726/7cf5199f-aae6-472a-9a38-d085152506d6)
+
 
 Specs:
 CPU: Intel i9 9900k (Overclocked to 4.7GHZ)
