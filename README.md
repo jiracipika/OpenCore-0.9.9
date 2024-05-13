@@ -4,6 +4,8 @@ Followed these guides:
 https://dortania.github.io/getting-started/
 https://github.com/USBToolBox/tool
 
+![Screenshot 2024-05-12 at 11 12 41 PM](https://github.com/jiracipika/OpenCore-1.0.0/assets/74633726/77e47911-4526-46be-b7e6-1fc1c504ce20)
+
 Specs:
 CPU: Intel i9 9900k (Overclocked to 4.7GHZ)
 Motherboard: MSI Z 370 A-PRO
@@ -13,7 +15,6 @@ Storage:
 3x500gb (Windows)
 Networking:
 Broadcom BRCM20702 off-brand Ebay (worked OOB)
-![Screenshot 2024-05-12 at 11 12 41 PM](https://github.com/jiracipika/OpenCore-1.0.0/assets/74633726/0a099599-1f99-4544-a37c-54e4bc1f8fff)
 
 Input Devices: 
 -Apple Magic Trackpad 2
@@ -40,6 +41,8 @@ Integrated Graphics Share Memory [64M]
 IGD Multi-Monitor [Enabled]
 \\
 
+![Screenshot 2024-05-12 at 8 03 59 PM](https://github.com/jiracipika/OpenCore-1.0.0/assets/74633726/1fc2d537-6283-4881-b737-53de41351f4d)
+
 FIXED: Random kernel panics/lockups due to ram, overclocks brought down back to stock 3200mhz -> 2666mhz. (Was previously causing issues with Geekbench completing benchmark)
 
 My use case:
@@ -53,6 +56,8 @@ Single-Core: 1634
 Multi-Core: 7866
 
 GPU (Metal): 82561 (custom flashed bios from mining, doesn't affect anything but timings=performance)
+
+![Screenshot 2024-05-12 at 11 14 26 PM](https://github.com/jiracipika/OpenCore-1.0.0/assets/74633726/27000ac1-3e58-4210-a6ab-7aa5ff7214aa)
 
 Note: Find and replace these values in config.plist:
 REPLACE_ME_PLEASE
