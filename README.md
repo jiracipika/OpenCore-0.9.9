@@ -13,6 +13,7 @@ Storage:
 3x500gb (Windows)
 Networking:
 Broadcom BRCM20702 off-brand Ebay (worked OOB)
+![Screenshot 2024-05-12 at 11 12 41 PM](https://github.com/jiracipika/OpenCore-1.0.0/assets/74633726/0a099599-1f99-4544-a37c-54e4bc1f8fff)
 
 Input Devices: 
 -Apple Magic Trackpad 2
