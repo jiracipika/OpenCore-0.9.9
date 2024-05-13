@@ -7,7 +7,7 @@ https://github.com/USBToolBox/tool
 Specs:
 CPU: Intel i9 9900k (Overclocked to 4.7GHZ)
 Motherboard: MSI Z 370 A-PRO
-Memory: Adata XPG Z1 DDR4 2666mhz 8gbx2 (Overclocked to 3200MHZ)
+Memory: Adata XPG Z1 DDR4 @2666mhz 8gbx2
 Storage: 
 1x 500gb NVME via PCi-E adapter (only 1 NVME slot on MOBO)
 3x500gb (Windows)
@@ -38,9 +38,20 @@ Initiate Graphics Adapter [PEG]
 Integrated Graphics Share Memory [64M]
 IGD Multi-Monitor [Enabled]
 \\
+
+FIXED: Random kernel panics/lockups due to ram, overclocks brought down back to stock 3200mhz -> 2666mhz. (Was previously causing issues with Geekbench completing benchmark)
+
 My use case:
 Primarily using VS Code, Logic Pro X (for those hard renders)
 Windows for gaming, M1 MBA for on-the-go
+
+Benchmark Results:
+Geekbench 6.3.0 for macOS AVX2
+CPU: 
+Single-Core: 1634
+Multi-Core: 7866
+
+GPU (Metal): 82561 (custom flashed bios from mining, doesn't affect anything but timings=performance)
 
 Note: Find and replace these values in config.plist:
 REPLACE_ME_PLEASE
